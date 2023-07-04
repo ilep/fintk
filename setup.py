@@ -18,6 +18,6 @@ author_email='ivanlptr@gmail.fr',
 package_dir={'fintk':'fintk'},
 packages=['fintk'],
 include_package_data=True,
-package_data={'fintk': ['data/*.csv']},
+package_data={'fintk': ['data/*.csv', 'data/*.xlsx']},
 zip_safe=False)
 
